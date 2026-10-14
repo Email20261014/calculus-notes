@@ -1,0 +1,2 @@
+# 统一为 UTF-8，避免中文在 Windows/Linux 间乱码
+*.md text eol=lf
